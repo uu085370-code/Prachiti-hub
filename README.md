@@ -1,2 +1,10 @@
-# Prachiti-hub
-A central space where all my creative and technical projects come together.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to Prachiti Hub</title>
+</head>
+<body>
+    <h1>Hello from Prachiti!</h1>
+    <p>This is my first HTML file uploaded to GitHub.</p>
+</body>
+</html>
